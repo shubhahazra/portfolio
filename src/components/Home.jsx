@@ -36,7 +36,7 @@ const Home = () => {
 
       {/* Heading */}
       <div className="flex flex-wrap items-center gap-x-2 gap-y-1
-                      text-2xl md:text-4xl font-bold leading-tight">
+                      text-xl md:text-4xl font-bold leading-tight">
 
         <h1>Hello, I'm a </h1>
 
@@ -67,7 +67,7 @@ const Home = () => {
         {/* Social Media */}
         <div>
           <h2 className="font-semibold text-gray-900 dark:text-white mb-4">
-            Available On
+            Connect with me
           </h2>
 
           <ul className="flex items-center gap-5">
